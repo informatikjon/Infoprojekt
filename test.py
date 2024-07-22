@@ -1,9 +1,4 @@
 print("Hello World")
-print('Penis')
-
-
-
-
-
-
-print('Arsch')
+print("Penis") 
+print("wo")
+print("FCS")
