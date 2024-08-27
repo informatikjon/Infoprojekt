@@ -13,6 +13,10 @@ def Ausgabe_nach_ID():                                                          
 def Ausgabe_nach_Preis():
     
     print(*Ausstattungen_Liste_sort, sep="\n")
+    
+
+Ausgabe_nach_ID()
+Ausgabe_nach_Preis()
 
 
 
