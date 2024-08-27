@@ -1,3 +1,36 @@
-Haus,Baum
-1,2
-2,3
+1001,Schwarz,0
+1002,Silber,0
+1003,Weiss,0
+1004,Rot,0
+1005,Blau,0
+1006,Sonderwunsch Farbe,8000
+2001,Leder Innenraum,5000
+2002,Stoffsitze,0
+2003,Ledersitze komfort,1500
+2004,Sportsitze,2000
+2005,Vollschalensitze,4500
+2006,Interieurpaket Carbon,1700
+2007,Interieurpaket Aluminium,1100
+2008,Sitzheizung,1200
+2009,Sitzkühlung,1000
+2010,Sportlenkrad,1000
+2011,Lenkradheizung,1000
+3001,Exterieurpaket Sport,4000
+3002,Getönte Seiten- und Heckscheibe,600
+3003,Dachgepäckträger,600
+3004,LED-Matrix-Scheinwerfer,2300
+3005,Heckleuchte abgedunkelt,800
+3006,Entfall Schriftzug Modellbezeichnung,0
+4001,Ionisator,280
+4002,Garagentoroeffner,280
+4003,Dashcam,110
+4004,Raucherpaket,60
+5001,Burmester High-End Surround Sound-System,4600
+5002,Touchscreen Navigationssystem,1500
+5003,Digitaler Tacho,1000
+5004,Head-Up-Display,600
+6001,18-Zoll Felgen Aluminium,0
+6002,19-Zoll Felgen Aluminium,1500
+6003,19-Zoll Felgen Schwarz Lackiert,1700
+6004,20-Zoll Felgen Magnesium,4000
+6005,20-Zoll Felgen Magnesium Schwarz Lackiert,4300
